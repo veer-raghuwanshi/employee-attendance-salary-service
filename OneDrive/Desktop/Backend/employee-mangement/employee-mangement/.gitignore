@@ -1,8 +1,0 @@
-node_modules/
-
-# Environment variables
-# .env
-
-
-# Dist / Build output
-dist/
